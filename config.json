@@ -1,0 +1,8 @@
+{
+    "name": "appservice-service",
+    "version": "1.0.368",
+    "private": false,
+    "environment": "production",
+    "build_id": 695,
+    "allow_public_access": true
+}
